@@ -1,0 +1,25 @@
+body {
+background-color: aquamarine;
+}
+
+#alertdiv{
+            background-color: #F3F5F6;
+            color: #000000;
+            border: 1px solid #aaa;
+            position: fixed;
+            width: 50vw;
+            height: 50vh;
+            left: 40%;
+            top: 50vh;
+            box-sizing: border-box;
+            text-align: center;
+transition: all 7s ease-out;
+            
+    
+
+}
+
+#button{
+
+
+}
