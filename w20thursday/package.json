@@ -1,0 +1,14 @@
+{
+  "name": "w20thursday",
+  "version": "1.0.0",
+  "description": "You have chosen a monochromatic color theme for your webpage - so that the background is dark and the text if bright, but with the same hue.",
+  "main": "index.js",
+  "scripts": {
+   "my-new-sass": "node-sass mysolution/style.scss mysolution/styles.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.9.0"
+  }
+}
